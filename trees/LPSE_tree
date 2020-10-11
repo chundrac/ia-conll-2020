@@ -1,0 +1,792 @@
+% Created by tikzDevice version 0.12.3 on 2020-10-09 18:23:16
+% !TEX encoding = UTF-8 Unicode
+\begin{tikzpicture}[x=1pt,y=1pt]
+\definecolor{fillColor}{RGB}{255,255,255}
+\path[use as bounding box,fill=fillColor,fill opacity=0.00] (0,0) rectangle (216.81,361.35);
+\begin{scope}
+\path[clip] (  1.20,  1.20) rectangle (215.61,360.15);
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53,330.24) --
+	(149.53,335.78);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (147.15,333.01) --
+	(147.15,341.32);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53,302.54) --
+	(149.53,308.08);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (147.15,305.31) --
+	(147.15,313.62);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (144.77,309.46) --
+	(144.77,319.16);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (142.39,314.31) --
+	(142.39,324.70);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (135.25,319.51) --
+	(135.25,337.16);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (132.87,328.33) --
+	(132.87,346.86);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53,285.92) --
+	(149.53,291.46);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (147.15,288.69) --
+	(147.15,297.00);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53,274.84) --
+	(149.53,280.38);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (142.39,277.61) --
+	(142.39,292.85);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (120.97,285.23) --
+	(120.97,337.59);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53,263.77) --
+	(149.53,269.30);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53,241.61) --
+	(149.53,247.15);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (147.15,244.38) --
+	(147.15,252.69);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (144.77,248.53) --
+	(144.77,258.23);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (140.01,253.38) --
+	(140.01,266.53);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53,230.53) --
+	(149.53,236.07);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53,213.91) --
+	(149.53,219.45);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (147.15,216.68) --
+	(147.15,224.99);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53,191.75) --
+	(149.53,197.29);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (147.15,194.52) --
+	(147.15,202.83);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (144.77,198.68) --
+	(144.77,208.37);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (137.63,203.52) --
+	(137.63,220.84);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53,180.67) --
+	(149.53,186.21);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53,164.06) --
+	(149.53,169.60);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (147.15,166.83) --
+	(147.15,175.14);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (142.39,170.98) --
+	(142.39,183.44);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (125.73,177.21) --
+	(125.73,212.18);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (120.97,194.70) --
+	(120.97,233.30);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (106.70,214.00) --
+	(106.70,259.96);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53,152.98) --
+	(149.53,158.52);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53,136.36) --
+	(149.53,141.90);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (147.15,139.13) --
+	(147.15,147.44);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (142.39,143.28) --
+	(142.39,155.75);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53,119.74) --
+	(149.53,125.28);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (147.15,122.51) --
+	(147.15,130.82);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53, 97.58) --
+	(149.53,103.12);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (147.15,100.35) --
+	(147.15,108.66);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (144.77,104.51) --
+	(144.77,114.20);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53, 86.51) --
+	(149.53, 92.05);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53, 69.89) --
+	(149.53, 75.43);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (147.15, 72.66) --
+	(147.15, 80.97);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53, 53.27) --
+	(149.53, 58.81);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (147.15, 56.04) --
+	(147.15, 64.35);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (140.01, 60.19) --
+	(140.01, 76.81);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (135.25, 68.50) --
+	(135.25, 89.28);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (125.73, 78.89) --
+	(125.73,109.36);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (118.60, 94.12) --
+	(118.60,126.67);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53, 36.65) --
+	(149.53, 42.19);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (147.15, 39.42) --
+	(147.15, 47.73);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53, 25.57) --
+	(149.53, 31.11);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (149.53, 14.49) --
+	(149.53, 20.03);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (144.77, 17.26) --
+	(144.77, 28.34);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (137.63, 22.80) --
+	(137.63, 43.58);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (101.94, 33.19) --
+	(101.94,110.39);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] ( 90.04, 71.79) --
+	( 90.04,149.52);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=round] (  9.14,110.65) --
+	(  9.14,236.98) --
+	(  9.14,311.41);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (  9.14,110.65) --
+	( 90.04,110.65);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] ( 90.04, 71.79) --
+	(101.94, 71.79);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (101.94, 33.19) --
+	(137.63, 33.19);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (137.63, 22.80) --
+	(144.77, 22.80);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (144.77, 17.26) --
+	(149.53, 17.26);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53, 14.49) --
+	(151.91, 14.49);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53, 20.03) --
+	(151.91, 20.03);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (144.77, 28.34) --
+	(149.53, 28.34);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53, 25.57) --
+	(151.91, 25.57);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53, 31.11) --
+	(151.91, 31.11);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (137.63, 43.58) --
+	(147.15, 43.58);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15, 39.42) --
+	(149.53, 39.42);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53, 36.65) --
+	(151.91, 36.65);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53, 42.19) --
+	(151.91, 42.19);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15, 47.73) --
+	(151.91, 47.73);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (101.94,110.39) --
+	(118.60,110.39);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (118.60, 94.12) --
+	(125.73, 94.12);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (125.73, 78.89) --
+	(135.25, 78.89);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (135.25, 68.50) --
+	(140.01, 68.50);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (140.01, 60.19) --
+	(147.15, 60.19);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15, 56.04) --
+	(149.53, 56.04);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53, 53.27) --
+	(151.91, 53.27);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53, 58.81) --
+	(151.91, 58.81);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15, 64.35) --
+	(151.91, 64.35);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (140.01, 76.81) --
+	(147.15, 76.81);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15, 72.66) --
+	(149.53, 72.66);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53, 69.89) --
+	(151.91, 69.89);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53, 75.43) --
+	(151.91, 75.43);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15, 80.97) --
+	(151.91, 80.97);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (135.25, 89.28) --
+	(149.53, 89.28);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53, 86.51) --
+	(151.91, 86.51);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53, 92.05) --
+	(151.91, 92.05);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (125.73,109.36) --
+	(144.77,109.36);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (144.77,104.51) --
+	(147.15,104.51);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,100.35) --
+	(149.53,100.35);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53, 97.58) --
+	(151.91, 97.58);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,103.12) --
+	(151.91,103.12);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,108.66) --
+	(151.91,108.66);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (144.77,114.20) --
+	(151.91,114.20);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (118.60,126.67) --
+	(147.15,126.67);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,122.51) --
+	(149.53,122.51);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,119.74) --
+	(151.91,119.74);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,125.28) --
+	(151.91,125.28);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,130.82) --
+	(151.91,130.82);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] ( 90.04,149.52) --
+	(142.39,149.52);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (142.39,143.28) --
+	(147.15,143.28);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,139.13) --
+	(149.53,139.13);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,136.36) --
+	(151.91,136.36);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,141.90) --
+	(151.91,141.90);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,147.44) --
+	(151.91,147.44);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (142.39,155.75) --
+	(149.53,155.75);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,152.98) --
+	(151.91,152.98);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,158.52) --
+	(151.91,158.52);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (  9.14,236.98) --
+	(106.70,236.98);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (106.70,214.00) --
+	(120.97,214.00);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (120.97,194.70) --
+	(125.73,194.70);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (125.73,177.21) --
+	(142.39,177.21);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (142.39,170.98) --
+	(147.15,170.98);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,166.83) --
+	(149.53,166.83);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,164.06) --
+	(151.91,164.06);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,169.60) --
+	(151.91,169.60);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,175.14) --
+	(151.91,175.14);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (142.39,183.44) --
+	(149.53,183.44);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,180.67) --
+	(151.91,180.67);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,186.21) --
+	(151.91,186.21);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (125.73,212.18) --
+	(137.63,212.18);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (137.63,203.52) --
+	(144.77,203.52);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (144.77,198.68) --
+	(147.15,198.68);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,194.52) --
+	(149.53,194.52);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,191.75) --
+	(151.91,191.75);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,197.29) --
+	(151.91,197.29);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,202.83) --
+	(151.91,202.83);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (144.77,208.37) --
+	(151.91,208.37);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (137.63,220.84) --
+	(147.15,220.84);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,216.68) --
+	(149.53,216.68);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,213.91) --
+	(151.91,213.91);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,219.45) --
+	(151.91,219.45);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,224.99) --
+	(151.91,224.99);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (120.97,233.30) --
+	(149.53,233.30);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,230.53) --
+	(151.91,230.53);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,236.07) --
+	(151.91,236.07);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (106.70,259.96) --
+	(140.01,259.96);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (140.01,253.38) --
+	(144.77,253.38);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (144.77,248.53) --
+	(147.15,248.53);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,244.38) --
+	(149.53,244.38);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,241.61) --
+	(151.91,241.61);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,247.15) --
+	(151.91,247.15);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,252.69) --
+	(151.91,252.69);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (144.77,258.23) --
+	(151.91,258.23);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (140.01,266.53) --
+	(149.53,266.53);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,263.77) --
+	(151.91,263.77);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,269.30) --
+	(151.91,269.30);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (  9.14,311.41) --
+	(120.97,311.41);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (120.97,285.23) --
+	(142.39,285.23);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (142.39,277.61) --
+	(149.53,277.61);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,274.84) --
+	(151.91,274.84);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,280.38) --
+	(151.91,280.38);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (142.39,292.85) --
+	(147.15,292.85);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,288.69) --
+	(149.53,288.69);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,285.92) --
+	(151.91,285.92);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,291.46) --
+	(151.91,291.46);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,297.00) --
+	(151.91,297.00);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (120.97,337.59) --
+	(132.87,337.59);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (132.87,328.33) --
+	(135.25,328.33);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (135.25,319.51) --
+	(142.39,319.51);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (142.39,314.31) --
+	(144.77,314.31);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (144.77,309.46) --
+	(147.15,309.46);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,305.31) --
+	(149.53,305.31);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,302.54) --
+	(151.91,302.54);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,308.08) --
+	(151.91,308.08);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,313.62) --
+	(151.91,313.62);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (144.77,319.16) --
+	(151.91,319.16);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (142.39,324.70) --
+	(151.91,324.70);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (135.25,337.16) --
+	(147.15,337.16);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,333.01) --
+	(149.53,333.01);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,330.24) --
+	(151.91,330.24);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (149.53,335.78) --
+	(151.91,335.78);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (147.15,341.32) --
+	(151.91,341.32);
+
+\path[draw=drawColor,line width= 0.8pt,line join=round,line cap=rect] (132.87,346.86) --
+	(151.91,346.86);
+\definecolor{drawColor}{RGB}{255,255,255}
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 50.97) {NortheastPashayi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,178.38) {Assamese};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,300.25) {Bagheli};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,172.84) {Bengali};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,150.68) {Bhadrawahi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,156.22) {Bhadrawahi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,316.86) {Bhojpuri};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 23.28) {Braj};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,189.46) {Chambeali};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,195.00) {Churahi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,111.91) {Dameli};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 34.36) {Dhivehi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,283.63) {Domaaki};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,311.32) {Awadhi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,294.71) {Garhwali};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 84.21) {Gawar-Bati};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,289.17) {Gujarati};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,322.40) {Hindi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,339.02) {IndusKohistani};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 28.82) {Jaunsari};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,183.92) {Kachchi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 95.29) {Kalasha};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,128.53) {Kalami};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,161.76) {Kashmiri};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,222.69) {Khetrani};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,106.37) {Khowar};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,327.94) {KohistaniShina};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,239.31) {Konkani};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 12.20) {Kumaoni};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 56.51) {NortheastPashayi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 67.59) {NorthwestPashayi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,117.45) {Lomavren};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,145.14) {MahasuPahari};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,134.06) {Prakrit(Maharashtri)};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,305.78) {Maithili};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,244.85) {Marathi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 17.74) {Marwari(India)};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,211.62) {WesternPanjabi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 45.44) {Domari};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,206.08) {Nepali};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 78.67) {NorthwestPashayi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 73.13) {NortheastPashayi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,167.30) {Odia};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,139.60) {Pali};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,200.54) {Pangwali};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,217.15) {EasternPanjabi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,100.83) {Phalura};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 89.75) {Savi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,333.48) {Shina};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 62.05) {Shumashti};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,122.99) {Sindhi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31, 39.90) {Sinhala};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,261.47) {Kalasha};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,272.55) {SoutheastPashayi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,344.56) {Tirahi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,278.09) {Torwali};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,267.01) {VlaxRomani};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,250.39) {NortheastPashayi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,255.93) {WelshRomani};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,228.23) {WesternPanjabi};
+
+\node[text=drawColor,text opacity=0.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.00] at (154.31,233.77) {Wotapuri-Katarqalai};
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 51.89) {NortheastPashayi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,179.30) {Assamese};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,301.16) {Bagheli};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,173.76) {Bengali};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,151.60) {Bhadrawahi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,157.14) {Bhadrawahi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,317.78) {Bhojpuri};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 24.20) {Braj};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,190.38) {Chambeali};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,195.92) {Churahi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,112.83) {Dameli};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 35.27) {Dhivehi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,284.55) {Domaaki};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,312.24) {Awadhi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,295.62) {Garhwali};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 85.13) {Gawar-Bati};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,290.08) {Gujarati};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,323.32) {Hindi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,339.94) {IndusKohistani};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 29.74) {Jaunsari};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,184.84) {Kachchi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 96.21) {Kalasha};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,129.44) {Kalami};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,162.68) {Kashmiri};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,223.61) {Khetrani};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,107.29) {Khowar};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,328.86) {KohistaniShina};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,240.23) {Konkani};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 13.12) {Kumaoni};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 57.43) {NortheastPashayi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 68.51) {NorthwestPashayi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,118.36) {Lomavren};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,146.06) {MahasuPahari};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,134.98) {Prakrit(Maharashtri)};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,306.70) {Maithili};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,245.77) {Marathi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 18.66) {Marwari(India)};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,212.53) {WesternPanjabi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 46.35) {Domari};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,206.99) {Nepali};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 79.59) {NorthwestPashayi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 74.05) {NortheastPashayi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,168.22) {Odia};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,140.52) {Pali};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,201.46) {Pangwali};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,218.07) {EasternPanjabi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,101.75) {Phalura};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 90.67) {Savi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,334.40) {Shina};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 62.97) {Shumashti};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,123.90) {Sindhi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11, 40.81) {Sinhala};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,262.39) {Kalasha};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,273.47) {SoutheastPashayi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,345.48) {Tirahi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,279.01) {Torwali};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,267.93) {VlaxRomani};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,251.31) {NortheastPashayi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,256.85) {WelshRomani};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,229.15) {WesternPanjabi};
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.60] at (153.11,234.69) {Wotapuri-Katarqalai};
+\end{scope}
+\end{tikzpicture}
+
